@@ -1,3 +1,5 @@
+package completed;
+
 public class MaxSumArray {
         public int maxSubArray(int[] nums) {
             int currentSum = nums[0], maxSum = nums[0];
